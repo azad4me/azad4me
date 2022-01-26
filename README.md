@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @azad4me
 - 👀 I’m interested in CYBERSECURITY
 - 🌱 I’m currently learning WEB APPLICATION PENETRATOIN TESTING
-- 💞️ I’m looking to collaborate on HACING
+- 💞️ I’m looking to collaborate on HACKING
 - 📫 How to reach me ...
 
 <!---
